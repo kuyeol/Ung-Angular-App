@@ -1,0 +1,13 @@
+textarea {
+  width: 100%;
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  box-sizing: border-box;
+}
+
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
